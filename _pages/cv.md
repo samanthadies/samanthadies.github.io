@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Information
+====
+* 177 Huntington Ave. Boston, MA 02115
+* Email: dies.s@northeastern.edu
+* Phone: (203) 818-1341
+* [samanthadies.github.io](https://samanthadies.github.io/)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science, Georgetown University, 2022
+* Ph.D in Computer Science, Northeastern University (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Teaching Experiencce
+=====
+* Teaching Assistant at Georgetown University 
+  * MATH 140 Introduction to Statistics
+    * Fall 2020
+    * Spring 2021
+    * Fall 2021
+    * Spring 2022
+  * CS 160 Data Structures
+    * Spring 2021
+    * Fall 2021
+  * CS 051-052 Computer Science I and II
+    * Spring 2020
+    * Fall 2020
+  * MATH 137 Multivaraible Calculus
+    * Fall 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Industry Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science Intern, Pitney Bowes (May 2021 - August 2021)
+* Data Science Intern, Pitney Bowes (May 2020 - August 2020)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * ACM CAPWIC, "Quantifying and Measuring Transparency in Computer Science Research", 2022.
+  * ACM CAPWIC, "Social Media as a Driver for Social Change: Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter", 2021.
+
+Awards and Honors
+=====
+* Khoury Fellowship, Northeastern University (September 2022, ongoing)
+* <em>Summa Cum Laude</em>, Georgetown University (May 2022)
+* Award for Academic Excellence in Computer Science, Georgetown University (May 2022)
+* <em>Pi Sigma Mu</em> (May 2022)
+* <em>Sigma Xi</em> (May 2022)
+* <em>Phi Beta Kappa</em> (May 2021)
+* ACM Capital Region Celebration of Women in Computing Best Flashtalk Runner-Up (March 2021)
