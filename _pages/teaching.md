@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Georgetown University
-=====
+# Georgetown University
+
 **MATH 140 Introduction to Statistics**
 Teaching Assistant, Primary Instructor: [Mark Meyer](https://gufaculty360.georgetown.edu/s/contact/00336000014SZmuAAG/mark-meyer)
   * Fall 2020
