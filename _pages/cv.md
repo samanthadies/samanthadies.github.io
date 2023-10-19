@@ -19,7 +19,7 @@ Contact Information
 Education
 ======
 * B.S. in Mathematics and Computer Science, Georgetown University, 2022
-* Ph.D in Computer Science, Northeastern University (expected)
+* Ph.D. in Computer Science, Northeastern University (expected)
 
 Teaching Experiencce
 =====
@@ -45,6 +45,7 @@ Industry Experience
 
 Talks
 ======
+  * CCS Satellite - Toward Equitable and Just Societies: Unraveling the Complexities, "Unraveling the Impact of Co-authorship on Faculty Placement", 2023.
   * ACM CAPWIC, "Quantifying and Measuring Transparency in Computer Science Research", 2022.
   * ACM CAPWIC, "Social Media as a Driver for Social Change: Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter", 2021.
 
