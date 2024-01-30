@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-## Current Projects
-
 **Samantha Dies**, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
