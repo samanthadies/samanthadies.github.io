@@ -45,7 +45,7 @@ Industry Experience
 
 Publications
 ======
-* Samantha Dies, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
+* **Samantha Dies**, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
 
 Talks
 ======
