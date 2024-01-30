@@ -43,6 +43,10 @@ Industry Experience
 * Data Science Intern, Pitney Bowes (May 2021 - August 2021)
 * Data Science Intern, Pitney Bowes (May 2020 - August 2020)
 
+Publications
+======
+* Samantha Dies, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
+
 Talks
 ======
   * CCS Satellite - Toward Equitable and Just Societies: Unraveling the Complexities, "Unraveling the Impact of Co-authorship on Faculty Placement", 2023.
@@ -58,3 +62,7 @@ Awards and Honors
 * <em>Sigma Xi</em> (May 2022)
 * <em>Phi Beta Kappa</em> (May 2021)
 * ACM Capital Region Celebration of Women in Computing Best Flashtalk Runner-Up (March 2021)
+
+Academic Service
+=====
+* ICWSM '24 Program Committee
