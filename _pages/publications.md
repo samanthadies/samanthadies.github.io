@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+**Samantha Dies**, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
