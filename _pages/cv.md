@@ -59,7 +59,7 @@ Talks
 
 Awards and Honors
 =====
-* Khoury Fellowship, Northeastern University (September 2022, ongoing)
+* Khoury Fellowship, Northeastern University (September 2022 - August 2023)
 * <em>Summa Cum Laude</em>, Georgetown University (May 2022)
 * Award for Academic Excellence in Computer Science, Georgetown University (May 2022)
 * <em>Pi Sigma Mu</em> (May 2022)
