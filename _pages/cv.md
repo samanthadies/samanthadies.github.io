@@ -49,7 +49,7 @@ Preprints
 
 Posters
 =====
-* **Samantha Dies**\*, Joseph Ehlert\*, Mortiz Laber\*, and Tina Eliassi-Rad. Higher-Order Network Effects on Information Access Efficiency and Equality. The Graph Exploitation Symposium, July 2024. [[pdf]](https://graphex.mit.edu/sites/default/files/images/2024%20GraphEx%20Poster%20-%20Dies.pdf)
+* **Samantha Dies**\*, Joseph Ehlert\*, Mortiz Laber\*, and Tina Eliassi-Rad. Higher-Order Network Effects on Information Access Efficiency and Equality. The *Graph Exploitation Symposium*, July 2024. [[pdf]](https://graphex.mit.edu/sites/default/files/images/2024%20GraphEx%20Poster%20-%20Dies.pdf)
 
 Talks
 =====
