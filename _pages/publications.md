@@ -11,4 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Samantha Dies**, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
+Preprints
+====
+
+Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [pdf]
