@@ -43,9 +43,9 @@ Industry Experience
 * Data Science Intern, Pitney Bowes (May 2021 - August 2021)
 * Data Science Intern, Pitney Bowes (May 2020 - August 2020)
 
-Publications
+Preprints
 ======
-* **Samantha Dies**, Agoritsa Polyzou, and Lisa Singh. Transparency Modeling: Understanding the Ethical Norms in Computer Science Research that uses Social Media Data. (under submission)
+* Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [pdf](https://arxiv.org/pdf/2409.02002)
 
 Talks
 ======
@@ -66,3 +66,7 @@ Awards and Honors
 Academic Service
 =====
 * ICWSM '24 Program Committee
+
+Schools and Workshops
+====
+* Santa Fe Institute Complex Systems Summer School (June 2024)
