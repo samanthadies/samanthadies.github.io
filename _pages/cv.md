@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Contact Information
-====
+=====
 * 177 Huntington Ave. Boston, MA 02115
 * Email: dies.s@northeastern.edu
 * Phone: (203) 818-1341
 * [samanthadies.github.io](https://samanthadies.github.io/)
 
 Education
-======
+=====
 * B.S. in Mathematics and Computer Science, Georgetown University, 2022
 * Ph.D. in Computer Science, Northeastern University (expected)
 
@@ -39,16 +39,20 @@ Teaching Assistant at Georgetown University
     * Fall 2019
 
 Industry Experience
-======
+=====
 * Data Science Intern, Pitney Bowes (May 2021 - August 2021)
 * Data Science Intern, Pitney Bowes (May 2020 - August 2020)
 
 Preprints
-======
-* Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [[pdf]](https://arxiv.org/pdf/2409.02002)
+=====
+* Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. 2024. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [[pdf]](https://arxiv.org/pdf/2409.02002)
+
+Posters
+=====
+* **Samantha Dies**, Joseph Ehlert, Mortiz Laber, and Tina Eliassi-Rad. Higher-Order Network Effects on Information Access Efficiency and Equality. The Graph Exploitation Symposium, July 2024. [[pdf]](https://graphex.mit.edu/sites/default/files/images/2024%20GraphEx%20Poster%20-%20Dies.pdf)
 
 Talks
-======
+=====
   * CCS Satellite - Toward Equitable and Just Societies: Unraveling the Complexities, "Unraveling the Impact of Co-authorship on Faculty Placement", 2023.
   * ACM CAPWIC, "Quantifying and Measuring Transparency in Computer Science Research", 2022.
   * ACM CAPWIC, "Social Media as a Driver for Social Change: Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter", 2021.
@@ -68,5 +72,5 @@ Academic Service
 * ICWSM '24 Program Committee
 
 Schools and Workshops
-====
+=====
 * Santa Fe Institute Complex Systems Summer School (June 2024)
