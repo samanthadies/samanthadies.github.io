@@ -45,7 +45,7 @@ Industry Experience
 
 Preprints
 ======
-* Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [pdf](https://arxiv.org/pdf/2409.02002)
+* Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [[pdf]](https://arxiv.org/pdf/2409.02002)
 
 Talks
 ======
