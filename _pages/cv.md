@@ -23,6 +23,13 @@ Education
 
 Teaching Experiencce
 =====
+Project Coordinator at the Santa Fe Institute Complex Systems Summer School 2025
+Supervisor: Dave Feldman
+
+Teaching Assistant at Northeastern University
+* NETS 7332/CS 7332: Graph Machine Learning
+  * Fall 2025
+
 Teaching Assistant at Georgetown University 
 * MATH 140 Introduction to Statistics
   * Fall 2020
@@ -45,17 +52,21 @@ Industry Experience
 
 Preprints
 =====
+* **Samantha Dies**, David Liu, Tina Eliassi-Rad. 2025. Forecasting Faculty Placement from Patterns in Co-authorship Networks. [[pdf]](https://arxiv.org/pdf/2507.14696)
+* Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. 2025. Effects of higher-order interactions and homophily on information access inequality. [[pdf]](https://arxiv.org/pdf/2506.00156)
 * Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. 2024. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [[pdf]](https://arxiv.org/pdf/2409.02002)
 
 Posters
 =====
+* **Samantha Dies**, David Liu, Tina Eliassi-Rad. Forecasting Faculty Placement from Patterns in Co-authorship Networks. *The International Conference of Computational Social Science*, July 2025.
 * **Samantha Dies**\*, Joseph Ehlert\*, Mortiz Laber\*, and Tina Eliassi-Rad. Higher-Order Network Effects on Information Access Efficiency and Equality. The *Graph Exploitation Symposium*, July 2024. [[pdf]](https://graphex.mit.edu/sites/default/files/images/2024%20GraphEx%20Poster%20-%20Dies.pdf)
 
 Talks
 =====
-  * CCS Satellite - Toward Equitable and Just Societies: Unraveling the Complexities, "Unraveling the Impact of Co-authorship on Faculty Placement", 2023.
-  * ACM CAPWIC, "Quantifying and Measuring Transparency in Computer Science Research", 2022.
-  * ACM CAPWIC, "Social Media as a Driver for Social Change: Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter", 2021.
+  * NetSci 2025. *Higher-order Network Effects on Informaiton Access Equality & Efficiency*. Maastricht, the Netherlands.
+  * CCS 2023. *Unraveling the Impact of Co-authorship on Faculty Placement*. Bahia, Brazil.
+  * ACM CAPWIC 2022. *Quantifying and Measuring Transparency in Computer Science Research*. Online.
+  * ACM CAPWIC 2021. *Social Media as a Driver for Social Change: Analyzing the #MeToo and #BlackLivesMatter Movements on Twitter*. Online.
 
 Awards and Honors
 =====
