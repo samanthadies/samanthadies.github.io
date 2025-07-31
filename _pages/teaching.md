@@ -10,35 +10,35 @@ redirect_from:
 {% include base_path %}
 Northeastern University
 =====
-**NETS 7332/CS 7332 Graph Machine Learning**,
+**NETS 7332/CS 7332 Graph Machine Learning**  
 Teaching Assistant, Primary Instructor: [Tina Eliassi-Rad](https://eliassi.org/)
   * Fall 2025
 
 Georgetown University
 =====
-**MATH 140 Introduction to Statistics**,
+**MATH 140 Introduction to Statistics**  
 Teaching Assistant, Primary Instructor: [Mark Meyer](https://gufaculty360.georgetown.edu/s/contact/00336000014SZmuAAG/mark-meyer)
   * Fall 2020
   * Spring 2021
   * Fall 2021
   * Spring 2022
 
-**CS 160 Data Structures**,
+**CS 160 Data Structures**  
 Teaching Assistant, Primary Instructor: [Mark Maloof](https://people.cs.georgetown.edu/~maloof/) (Spring), [Philip Buffum](https://gufaculty360.georgetown.edu/s/contact/0033600001oA3GjAAK/philip-buffum) (Fall)
   * Spring 2021
   * Fall 2021
 
-**CS 051-052 Computer Science I and II**,
+**CS 051-052 Computer Science I and II**  
 Teaching Assistant, Primary Instructor: [Addison Woods](https://people.cs.georgetown.edu/~addison/)
   * Spring 2020
   * Fall 2020
 
-**MATH 137 Multivaraible Calculus**,
+**MATH 137 Multivaraible Calculus**  
 Teaching Assistant, Primary Instructor: [Michael Raney](https://gufaculty360.georgetown.edu/s/contact/00336000014Rjq8AAC/michael-raney)
   * Fall 2019
 
 Other Teaching Roles
 =====
-**Complex Systems Summer School (CSSS) at the Santa Fe Institute** 
-Project Coordinator, Primary Instructor: [Dave Feldman](https://faculty.cofc.edu/feldmandj/)  
+**Complex Systems Summer School (CSSS) at the Santa Fe Institute**  
+Project Coordinator, Primary Instructor: [Dave Feldman](https://www.coa.edu/live/profiles/1108-david-feldman)  
   * Summer 2025
