@@ -23,28 +23,17 @@ Education
 
 Teaching Experiencce
 =====
-Project Coordinator at the Santa Fe Institute Complex Systems Summer School 2025
+**Project Coordinator**, *Santa Fe Institute Complex Systems Summer School* — **Summer 2025**  
+*Supervisor: Dave Feldman*  
 
-Supervisor: Dave Feldman
+**Teaching Assistant**, *Northeastern University*  
+- **NETS 7332 / CS 7332: Graph Machine Learning** — *Fall 2025*
 
-Teaching Assistant at Northeastern University
-* NETS 7332/CS 7332: Graph Machine Learning
-  * Fall 2025
-
-Teaching Assistant at Georgetown University 
-* MATH 140 Introduction to Statistics
-  * Fall 2020
-  * Spring 2021
-  * Fall 2021
-  * Spring 2022
-* CS 160 Data Structures
-  * Spring 2021
-   * Fall 2021
-* CS 051-052 Computer Science I and II
-  * Spring 2020
-  * Fall 2020
-* MATH 137 Multivaraible Calculus
-    * Fall 2019
+**Teaching Assistant**, *Georgetown University*  
+- **MATH 140: Introduction to Statistics** — *Fall 2020, Spring 2021, Fall 2021, Spring 2022*  
+- **CS 160: Data Structures** — *Spring 2021, Fall 2021*  
+- **CS 051-052: Computer Science I & II** — *Spring 2020, Fall 2020*  
+- **MATH 137: Multivariable Calculus** — *Fall 2019*
 
 Industry Experience
 =====
