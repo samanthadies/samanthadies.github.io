@@ -24,6 +24,7 @@ Education
 Teaching Experiencce
 =====
 Project Coordinator at the Santa Fe Institute Complex Systems Summer School 2025
+
 Supervisor: Dave Feldman
 
 Teaching Assistant at Northeastern University
