@@ -39,6 +39,6 @@ Teaching Assistant, Primary Instructor: [Michael Raney](https://gufaculty360.geo
 
 Other Teaching Roles
 =====
-**Complex Systems Summer School (CSSS)**, *Santa Fe Institute*  
-**Project Coordinator**, Primary Instructor: [Dave Feldman](https://faculty.cofc.edu/feldmandj/)  
+**Complex Systems Summer School (CSSS) at the Santa Fe Institute** 
+Project Coordinator, Primary Instructor: [Dave Feldman](https://faculty.cofc.edu/feldmandj/)  
   * Summer 2025
