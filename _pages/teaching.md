@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+Northeastern University
+=====
+**NETS 7332/CS 7332 Graph Machine Learning**,
+Teaching Assistant, Primary Instructor: [Tina Eliassi-Rad](https://eliassi.org/)
+  * Fall 2025
 
 Georgetown University
 =====
@@ -31,3 +36,9 @@ Teaching Assistant, Primary Instructor: [Addison Woods](https://people.cs.george
 **MATH 137 Multivaraible Calculus**,
 Teaching Assistant, Primary Instructor: [Michael Raney](https://gufaculty360.georgetown.edu/s/contact/00336000014Rjq8AAC/michael-raney)
   * Fall 2019
+
+Other Teaching Roles
+=====
+**Complex Systems Summer School (CSSS)**, *Santa Fe Institute*  
+**Project Coordinator**, Primary Instructor: [Dave Feldman](https://faculty.cofc.edu/feldmandj/)  
+  * Summer 2025
