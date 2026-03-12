@@ -13,7 +13,7 @@ author_profile: true
 
 Publications
 ====
-Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. Effects of higher-order interactions and homophily on information access inequailty. _Communications Physics_ (2026) [[pdf]([https://arxiv.org/pdf/2506.00156](https://www.nature.com/articles/s42005-025-02445-y))]
+Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. Effects of higher-order interactions and homophily on information access inequailty. _Communications Physics_ (2026) [[pdf](https://www.nature.com/articles/s42005-025-02445-y)]
 
 **Samantha Dies**, David Liu, and Tina Eliassi-Rad. Forecasting Faculty Placement from Patterns in Co-authorship Networks. _EPJ Data Science_ (2026). [[pdf](https://arxiv.org/pdf/2507.14696)]
 
