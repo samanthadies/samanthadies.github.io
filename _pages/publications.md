@@ -11,11 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+Publications
+====
+Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. Effects of higher-order interactions and homophily on information access inequailty. _Communications Physics_ (2026) [[pdf]([https://arxiv.org/pdf/2506.00156](https://www.nature.com/articles/s42005-025-02445-y))]
+
+**Samantha Dies**, David Liu, and Tina Eliassi-Rad. Forecasting Faculty Placement from Patterns in Co-authorship Networks. _EPJ Data Science_ (2026). [[pdf](https://arxiv.org/pdf/2507.14696)]
+
+
 Preprints
 ====
+**Samantha Dies**, Courtney Maynard, Germans Savcisens, and Tina Eliassi-Rad. Representational and Behavioral Stability of Truth in Large Language Models. (2025) [[pdf](https://arxiv.org/pdf/2511.19166)]
 
-**Samantha Dies**, David Liu, and Tina Eliassi-Rad. 2025. Forecasting Faculty Placement from Patterns in Co-authorship Networks. [[pdf](https://arxiv.org/pdf/2507.14696)]
-
-Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. 2025. Effects of higher-order interactions and homophily on information access inequailty. [[pdf](https://arxiv.org/pdf/2506.00156)]
-
-Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. 2024. The Overlooked Need for Ethics in Complexity Science: Why it Matters. [[pdf](https://arxiv.org/pdf/2409.02002)]
+Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona, **Samantha Dies**, Ana Maria Jaramillo, Paulo H. Resende, and Ana Maria de Sousa Leitao. The Overlooked Need for Ethics in Complexity Science: Why it Matters. (2024) [[pdf](https://arxiv.org/pdf/2409.02002)]
