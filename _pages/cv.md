@@ -43,6 +43,7 @@ Posters
 
 Talks
 =====
+  * TENET: Satellite on Temporal Networks, NetSci 2026. *Forecasting Faculty Placement from Temporal Coauthorship Networks.* Boston, MA.
   * NetSci 2025. *Higher-order Network Effects on Informaiton Access Equality & Efficiency*. Maastricht, the Netherlands.
   * CCS 2023. *Unraveling the Impact of Co-authorship on Faculty Placement*. Bahia, Brazil.
   * ACM CAPWIC 2022. *Quantifying and Measuring Transparency in Computer Science Research*. Online.
