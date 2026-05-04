@@ -19,12 +19,12 @@ Contact Information
 Education
 =====
 **Northeastern University**, Boston, MA
-Ph.D. in Computer Science, expected
-M.S. in Computer Science, 2026
-Post-Secondary Teaching Certificate, 2025
+* Ph.D. in Computer Science, expected
+* M.S. in Computer Science, 2026
+* Post-Secondary Teaching Certificate, 2025
 
 **Georgetown University**, Washington, DC
-B.S. in Mathematics and Computer Science, 2022
+* B.S. in Mathematics and Computer Science, 2022
 
 Publications
 =====
