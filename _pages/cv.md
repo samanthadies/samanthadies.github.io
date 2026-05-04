@@ -18,13 +18,18 @@ Contact Information
 
 Education
 =====
-* Ph.D. in Computer Science, Northeastern University (expected)
-* B.S. in Mathematics and Computer Science, Georgetown University, 2022
+**Northeastern University**, Boston, MA
+Ph.D. in Computer Science, expected
+M.S. in Computer Science, 2026
+Post-Secondary Teaching Certificate, 2025
+
+**Georgetown University**, Washington, DC
+B.S. in Mathematics and Computer Science, 2022
 
 Publications
 =====
 * Moritz Laber\*, **Samantha Dies**\*, Joseph Ehlert\*, Brennan Klein, and Tina Eliassi-Rad. Effects of higher-order interactions and homophily on information access inequality. _Communications Physics_ (2026) [[pdf](https://www.nature.com/articles/s42005-025-02445-y)]
-* **Samantha Dies**, David Liu, Tina Eliassi-Rad. Forecasting Faculty Placement from Patterns in Co-authorship Networks. _EPJ Data Science_ (2026) [[pdf](https://arxiv.org/pdf/2507.14696)]
+* **Samantha Dies**, David Liu, Tina Eliassi-Rad. Forecasting Faculty Placement from Patterns in Co-authorship Networks. _EPJ Data Science_ (2026) [[pdf](https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1)]
 
 Preprints
 =====
@@ -67,16 +72,18 @@ Awards and Honors
 * <em>Phi Beta Kappa</em> (May 2021)
 * ACM Capital Region Celebration of Women in Computing Best Flashtalk Runner-Up (March 2021)
 
-Academic Service
+Service
 =====
-* IC2S2 '26 Program Committee
+**Reviewing and Program Committees**
 * NetSci '26 Program Committee
 * ICWSM '24 Program Committee
 
-Conference Organization
-=====
+**Conference Organization**
 * NetSci '26 – Satellite Organizer, Ethics in Network Science Research and Practice
-* NetSci '26 – Satellite Organizer, NetSciEd: Network Science and Education
+
+**Departmental Service**
+* Ph.D. Open House Volunteer, Khoury College of Computer Sciences, Northeastern University (2023, 2025, 2026)
+* Ph.D. Application Reviewer, Khoury College of Computer Sciences, Northeastern University (2023)
 
 Industry Experience
 =====
