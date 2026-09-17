@@ -2,13 +2,12 @@
 layout: single
 title: "CV"
 permalink: /cv/
-author_profile: false
-classes: wide
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-<p style="text-align: center;">
+<p>
   <a href="{{ '/files/CV.pdf' | relative_url }}" target="_blank">
     Open CV in a new tab
   </a>
@@ -22,7 +21,7 @@ redirect_from:
   data="{{ '/files/CV.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
-  style="height: 85vh; min-height: 800px;">
+  height="1100px">
   <p>
     Your browser cannot display PDFs inline.
     <a href="{{ '/files/CV.pdf' | relative_url }}">
