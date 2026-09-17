@@ -17,15 +17,8 @@ redirect_from:
   </a>
 </p>
 
-<object
-  data="{{ '/files/CV.pdf' | relative_url }}"
-  type="application/pdf"
+<iframe
+  src="{{ '/files/CV.pdf' | relative_url }}#zoom=page-width"
   width="100%"
-  height="1100px">
-  <p>
-    Your browser cannot display PDFs inline.
-    <a href="{{ '/files/CV.pdf' | relative_url }}">
-      View the CV here.
-    </a>
-  </p>
-</object>
+  style="height: 85vh; min-height: 700px; border: none;">
+</iframe>
