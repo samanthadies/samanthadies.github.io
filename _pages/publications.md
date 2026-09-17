@@ -90,7 +90,7 @@ Publications
 
   <div class="pub-thumb">
     <a href="PSTAT_LINK">
-      <img src="{{ '/images/fig_pstat.pdf' | relative_url }}"
+      <img src="{{ '/images/fig_pstat.png' | relative_url }}"
            alt="P-StaT framework">
     </a>
   </div>
@@ -104,7 +104,7 @@ Publications
       forthcoming.
     </p>
     <p class="pub-links">
-      [<a href="PSTAT_LINK">pdf</a>]
+      [<a href="PSTAT_LINK">png</a>]
     </p>
   </div>
 
@@ -115,7 +115,7 @@ Publications
 
   <div class="pub-thumb">
     <a href="HYPERJUSTICE_LINK">
-      <img src="{{ '/images/fig_hyperjustice.pdf' | relative_url }}"
+      <img src="{{ '/images/fig_hyperjustice.png' | relative_url }}"
            alt="Higher-order interactions and information access">
     </a>
   </div>
@@ -128,7 +128,7 @@ Publications
       <em>Communications Physics</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="HYPERJUSTICE_LINK">pdf</a>]
+      [<a href="HYPERJUSTICE_LINK">png</a>]
     </p>
   </div>
 
@@ -139,7 +139,7 @@ Publications
 
   <div class="pub-thumb">
     <a href="FACULTY_HIRING_LINK">
-      <img src="{{ '/images/fig_faculty_hiring.pdf' | relative_url }}"
+      <img src="{{ '/images/fig_faculty_hiring.png' | relative_url }}"
            alt="Temporal coauthorship network modeling pipeline">
     </a>
   </div>
@@ -151,7 +151,7 @@ Publications
       <em>EPJ Data Science</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="FACULTY_HIRING_LINK">pdf</a>]
+      [<a href="FACULTY_HIRING_LINK">png</a>]
     </p>
   </div>
 
@@ -167,7 +167,7 @@ Preprints
 
   <div class="pub-thumb">
     <a href="COEVOLVE_LINK">
-      <img src="{{ '/images/fig_coevolve.pdf' | relative_url }}"
+      <img src="{{ '/images/fig_coevolve.png' | relative_url }}"
            alt="Belief coevolution in a network of large language models">
     </a>
   </div>
@@ -179,7 +179,7 @@ Preprints
       <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models.</em>
     </p>
     <p class="pub-links">
-      [<a href="COEVOLVE_LINK">pdf</a>]
+      [<a href="COEVOLVE_LINK">png</a>]
     </p>
   </div>
 
@@ -190,7 +190,7 @@ Preprints
 
   <div class="pub-thumb">
     <a href="ETHICS_LINK">
-      <img src="{{ '/images/fig_ethics.pdf' | relative_url }}"
+      <img src="{{ '/images/fig_ethics.png' | relative_url }}"
            alt="Coauthorship and citation networks in complexity science ethics">
     </a>
   </div>
@@ -204,7 +204,7 @@ Preprints
       (2024).
     </p>
     <p class="pub-links">
-      [<a href="ETHICS_LINK">pdf</a>]
+      [<a href="ETHICS_LINK">png</a>]
     </p>
   </div>
 
