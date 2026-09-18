@@ -18,17 +18,18 @@ author_profile: true
 .pub-entry {
   display: flex;
   align-items: center;
-  gap: 1.4rem;
-  margin: 1.5rem 0 2.1rem 0;
+  gap: 1.5rem;
+  margin: 1.8rem 0 2.4rem 0;
 }
 
 .pub-thumb {
-  flex: 0 0 170px;
+  flex: 0 0 150px;
+  width: 150px;
 }
 
 .pub-thumb img {
-  width: 170px;
-  height: 115px;
+  width: 150px;
+  height: 130px;
   object-fit: contain;
   display: block;
 }
@@ -43,11 +44,13 @@ author_profile: true
 }
 
 .pub-links {
-  margin-top: 0.4rem !important;
+  margin-top: 0.45rem !important;
 }
 
 .equal-note {
   font-size: 0.9em;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
 }
 
 @media (max-width: 700px) {
@@ -57,12 +60,13 @@ author_profile: true
   }
 
   .pub-thumb {
-    flex: 0 0 125px;
+    flex: 0 0 120px;
+    width: 120px;
   }
 
   .pub-thumb img {
-    width: 125px;
-    height: 90px;
+    width: 120px;
+    height: 104px;
   }
 }
 
@@ -72,12 +76,13 @@ author_profile: true
   }
 
   .pub-thumb {
+    width: 150px;
     margin-bottom: 0.8rem;
   }
 
   .pub-thumb img {
-    width: 170px;
-    height: 115px;
+    width: 150px;
+    height: 130px;
   }
 }
 </style>
@@ -104,7 +109,7 @@ Publications
       forthcoming.
     </p>
     <p class="pub-links">
-      [<a href="PSTAT_LINK">png</a>]
+      [<a href="PSTAT_LINK">pdf</a>]
     </p>
   </div>
 
@@ -128,7 +133,7 @@ Publications
       <em>Communications Physics</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="HYPERJUSTICE_LINK">png</a>]
+      [<a href="HYPERJUSTICE_LINK">pdf</a>]
     </p>
   </div>
 
@@ -151,7 +156,7 @@ Publications
       <em>EPJ Data Science</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="FACULTY_HIRING_LINK">png</a>]
+      [<a href="FACULTY_HIRING_LINK">pdf</a>]
     </p>
   </div>
 
@@ -179,7 +184,7 @@ Preprints
       <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models.</em>
     </p>
     <p class="pub-links">
-      [<a href="COEVOLVE_LINK">png</a>]
+      [<a href="COEVOLVE_LINK">pdf</a>]
     </p>
   </div>
 
@@ -204,7 +209,7 @@ Preprints
       (2024).
     </p>
     <p class="pub-links">
-      [<a href="ETHICS_LINK">png</a>]
+      [<a href="ETHICS_LINK">pdf</a>]
     </p>
   </div>
 
