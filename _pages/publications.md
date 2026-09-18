@@ -94,7 +94,9 @@ Publications
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="PSTAT_LINK">
+    <a href="https://arxiv.org/pdf/2511.19166"
+       target="_blank"
+       rel="noopener noreferrer">
       <img src="{{ '/images/fig_pstat.png' | relative_url }}"
            alt="P-StaT framework">
     </a>
@@ -109,7 +111,9 @@ Publications
       forthcoming.
     </p>
     <p class="pub-links">
-      [<a href="PSTAT_LINK">pdf</a>]
+      [<a href="https://arxiv.org/pdf/2511.19166"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
     </p>
   </div>
 
@@ -119,7 +123,9 @@ Publications
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="HYPERJUSTICE_LINK">
+    <a href="https://www.nature.com/articles/s42005-025-02445-y"
+       target="_blank"
+       rel="noopener noreferrer">
       <img src="{{ '/images/fig_hyperjustice.png' | relative_url }}"
            alt="Higher-order interactions and information access">
     </a>
@@ -133,7 +139,9 @@ Publications
       <em>Communications Physics</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="HYPERJUSTICE_LINK">pdf</a>]
+      [<a href="https://www.nature.com/articles/s42005-025-02445-y"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
     </p>
   </div>
 
@@ -143,7 +151,9 @@ Publications
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="FACULTY_HIRING_LINK">
+    <a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
+       target="_blank"
+       rel="noopener noreferrer">
       <img src="{{ '/images/fig_faculty_hiring.png' | relative_url }}"
            alt="Temporal coauthorship network modeling pipeline">
     </a>
@@ -156,7 +166,9 @@ Publications
       <em>EPJ Data Science</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="FACULTY_HIRING_LINK">pdf</a>]
+      [<a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
     </p>
   </div>
 
@@ -171,7 +183,9 @@ Preprints
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="COEVOLVE_LINK">
+    <a href="https://arxiv.org/pdf/2607.27512"
+       target="_blank"
+       rel="noopener noreferrer">
       <img src="{{ '/images/fig_coevolve.png' | relative_url }}"
            alt="Belief coevolution in a network of large language models">
     </a>
@@ -184,7 +198,9 @@ Preprints
       <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models.</em>
     </p>
     <p class="pub-links">
-      [<a href="COEVOLVE_LINK">pdf</a>]
+      [<a href="https://arxiv.org/pdf/2607.27512"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
     </p>
   </div>
 
@@ -194,7 +210,9 @@ Preprints
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="ETHICS_LINK">
+    <a href="https://arxiv.org/pdf/2409.02002"
+       target="_blank"
+       rel="noopener noreferrer">
       <img src="{{ '/images/fig_ethics.png' | relative_url }}"
            alt="Coauthorship and citation networks in complexity science ethics">
     </a>
@@ -209,7 +227,9 @@ Preprints
       (2024).
     </p>
     <p class="pub-links">
-      [<a href="ETHICS_LINK">pdf</a>]
+      [<a href="https://arxiv.org/pdf/2409.02002"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
     </p>
   </div>
 
