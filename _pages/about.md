@@ -89,7 +89,7 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
     </div>
 
     <div class="work-meta">
-      Findings of the Association for Computational Linguistics: EMNLP, 2026
+      EMNLP, 2026 (forthcoming)
     </div>
 
     <div class="work-link">
