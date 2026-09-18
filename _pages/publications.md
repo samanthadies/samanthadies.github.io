@@ -107,7 +107,7 @@ Publications
       <strong>Samantha Dies</strong>, Courtney Maynard, Germans Savcisens,
       and Tina Eliassi-Rad.
       <em>Epistemic Familiarity is Associated With Belief Stability in Large Language Models.</em>
-      <em>Findings of the Association for Computational Linguistics: EMNLP 2026</em>,
+      <em>Findings of the Association for Computational Linguistics: EMNLP</em> (2026),
       forthcoming.
     </p>
     <p class="pub-links">
@@ -131,24 +131,7 @@ Publications
     </a>
   </div>
 
-  <div class="pub-text">
-    <p>
-      Moritz Laber*, <strong>Samantha Dies*</strong>, Joseph Ehlert*,
-      Brennan Klein, and Tina Eliassi-Rad.
-      <em>Effects of higher-order interactions and homophily on information access inequality.</em>
-      <em>Communications Physics</em> (2026).
-    </p>
-    <p class="pub-links">
-      [<a href="https://www.nature.com/articles/s42005-025-02445-y"
-          target="_blank"
-          rel="noopener noreferrer">paper</a>]
-    </p>
-  </div>
-
-</div>
-
-
-<div class="pub-entry">
+  <div class="pub-entry">
 
   <div class="pub-thumb">
     <a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
@@ -174,6 +157,23 @@ Publications
 
 </div>
 
+  <div class="pub-text">
+    <p>
+      Moritz Laber*, <strong>Samantha Dies*</strong>, Joseph Ehlert*,
+      Brennan Klein, and Tina Eliassi-Rad.
+      <em>Effects of higher-order interactions and homophily on information access inequality.</em>
+      <em>Communications Physics</em> (2026).
+    </p>
+    <p class="pub-links">
+      [<a href="https://www.nature.com/articles/s42005-025-02445-y"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
+    </p>
+  </div>
+
+</div>
+
+
 <p class="equal-note">* Equal contribution.</p>
 
 
@@ -195,7 +195,7 @@ Preprints
     <p>
       Germans Savcisens, <strong>Samantha Dies</strong>, Courtney Maynard,
       and Tina Eliassi-Rad.
-      <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models.</em>
+      <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models</em> (2026).
     </p>
     <p class="pub-links">
       [<a href="https://arxiv.org/pdf/2607.27512"
