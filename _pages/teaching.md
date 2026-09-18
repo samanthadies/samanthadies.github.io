@@ -57,12 +57,11 @@ Teaching
 
 <div class="teaching-section">
 
-## Instructor of Record
+<h2>Instructor of Record</h2>
 
 <div class="teaching-entry">
   <div class="teaching-title">DS 4420 · Advanced Machine Learning</div>
   <div class="teaching-meta">Northeastern University · Spring 2027</div>
-  <div class="teaching-role">Instructor of Record</div>
 </div>
 
 </div>
@@ -70,12 +69,11 @@ Teaching
 
 <div class="teaching-section">
 
-## Teaching Assistant
+<h2>Teaching Assistant</h2>
 
 <div class="teaching-entry">
   <div class="teaching-title">NETS / CS 7332 · Machine Learning with Graphs</div>
   <div class="teaching-meta">Northeastern University · Fall 2025, Fall 2026</div>
-  <div class="teaching-role">Teaching Assistant</div>
 </div>
 
 <div class="teaching-entry">
@@ -83,25 +81,21 @@ Teaching
   <div class="teaching-meta">
     Georgetown University · Fall 2020, Spring 2021, Fall 2021, Spring 2022
   </div>
-  <div class="teaching-role">Teaching Assistant</div>
 </div>
 
 <div class="teaching-entry">
   <div class="teaching-title">CS 160 · Data Structures</div>
   <div class="teaching-meta">Georgetown University · Spring 2021, Fall 2021</div>
-  <div class="teaching-role">Teaching Assistant</div>
 </div>
 
 <div class="teaching-entry">
   <div class="teaching-title">CS 051–052 · Introduction to Computer Science I and II</div>
   <div class="teaching-meta">Georgetown University · Spring 2020, Fall 2020</div>
-  <div class="teaching-role">Teaching Assistant</div>
 </div>
 
 <div class="teaching-entry">
   <div class="teaching-title">MATH 137 · Multivariable Calculus</div>
   <div class="teaching-meta">Georgetown University · Fall 2019</div>
-  <div class="teaching-role">Teaching Assistant</div>
 </div>
 
 </div>
@@ -109,7 +103,7 @@ Teaching
 
 <div class="teaching-section">
 
-## Teaching & Mentoring
+<h2>Teaching &amp; Mentoring</h2>
 
 <div class="teaching-entry">
   <div class="teaching-title">Complex Systems Summer School</div>
