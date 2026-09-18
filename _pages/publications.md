@@ -123,17 +123,6 @@ Publications
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="https://www.nature.com/articles/s42005-025-02445-y"
-       target="_blank"
-       rel="noopener noreferrer">
-      <img src="{{ '/images/fig_hyperjustice.png' | relative_url }}"
-           alt="Higher-order interactions and information access">
-    </a>
-  </div>
-
-  <div class="pub-entry">
-
-  <div class="pub-thumb">
     <a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
        target="_blank"
        rel="noopener noreferrer">
@@ -156,6 +145,18 @@ Publications
   </div>
 
 </div>
+
+
+<div class="pub-entry">
+
+  <div class="pub-thumb">
+    <a href="https://www.nature.com/articles/s42005-025-02445-y"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="{{ '/images/fig_hyperjustice.png' | relative_url }}"
+           alt="Higher-order interactions and information access">
+    </a>
+  </div>
 
   <div class="pub-text">
     <p>
@@ -195,7 +196,8 @@ Preprints
     <p>
       Germans Savcisens, <strong>Samantha Dies</strong>, Courtney Maynard,
       and Tina Eliassi-Rad.
-      <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models</em> (2026).
+      <em>Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models</em>
+      (2026).
     </p>
     <p class="pub-links">
       [<a href="https://arxiv.org/pdf/2607.27512"
@@ -223,7 +225,7 @@ Preprints
       Olumide Adisa, Enio Alterman Blay, Yasaman Asgari, Gabriele Di Bona,
       <strong>Samantha Dies</strong>, Ana Maria Jaramillo, Paulo H. Resende,
       and Ana Maria de Sousa Leitao.
-      <em>The Overlooked Need for Ethics in Complexity Science: Why it Matters.</em>
+      <em>The Overlooked Need for Ethics in Complexity Science: Why it Matters</em>
       (2024).
     </p>
     <p class="pub-links">
