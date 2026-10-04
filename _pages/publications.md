@@ -184,6 +184,33 @@ Preprints
 <div class="pub-entry">
 
   <div class="pub-thumb">
+    <a href="https://arxiv.org/pdf/2609.34158"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="{{ '/images/fig_lockean_thesis.png' | relative_url }}"
+           alt="Toward a Graded Measure of Belief Stability in Large Language Models">
+    </a>
+  </div>
+
+  <div class="pub-text">
+    <p>
+      <strong>Samantha Dies</strong>, Branden Fitelson,
+      and Tina Eliassi-Rad.
+      <em>Toward a Graded Measure of Belief Stability in Large Language Models</em>
+      (2026).
+    </p>
+    <p class="pub-links">
+      [<a href="https://arxiv.org/pdf/2609.34158"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
+    </p>
+  </div>
+
+</div>
+
+<div class="pub-entry">
+
+  <div class="pub-thumb">
     <a href="https://arxiv.org/pdf/2607.27512"
        target="_blank"
        rel="noopener noreferrer">
