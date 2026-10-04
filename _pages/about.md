@@ -93,7 +93,7 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
     </div>
 
     <div class="work-link">
-      [<a href="[https://arxiv.org/pdf/2609.34158"
+      [<a href="https://arxiv.org/pdf/2609.34158"
           target="_blank"
           rel="noopener noreferrer">paper</a>]
     </div>
