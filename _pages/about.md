@@ -77,11 +77,34 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
 <div class="selected-work-grid">
 
   <div class="work-card">
+    <a href="https://arxiv.org/pdf/2609.34158"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="{{ '/images/fig_lockean_thesis.png' | relative_url }}"
+           alt="Toward a Graded Measure of Belief Stability in Large Language Models">
+    </a>
+
+    <div class="work-title">
+      Toward a Graded Measure of Belief Stability in Large Language Models
+    </div>
+
+    <div class="work-meta">
+      arXiv, 2026
+    </div>
+
+    <div class="work-link">
+      [<a href="[https://arxiv.org/pdf/2609.34158"
+          target="_blank"
+          rel="noopener noreferrer">paper</a>]
+    </div>
+  </div>
+
+  <div class="work-card">
     <a href="https://arxiv.org/pdf/2511.19166"
        target="_blank"
        rel="noopener noreferrer">
       <img src="{{ '/images/fig_pstat.png' | relative_url }}"
-           alt="P-StaT framework">
+           alt="Epistemic Familiarity is Associated With Belief Stability in Large Language Models">
     </a>
 
     <div class="work-title">
@@ -98,31 +121,6 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
           rel="noopener noreferrer">paper</a>]
     </div>
   </div>
-
-
-  <div class="work-card">
-    <a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
-       target="_blank"
-       rel="noopener noreferrer">
-      <img src="{{ '/images/fig_faculty_hiring.png' | relative_url }}"
-           alt="Temporal coauthorship network modeling pipeline">
-    </a>
-
-    <div class="work-title">
-      Forecasting Faculty Placement from Patterns in Co-authorship Networks
-    </div>
-
-    <div class="work-meta">
-      EPJ Data Science, 2026
-    </div>
-
-    <div class="work-link">
-      [<a href="https://link.springer.com/article/10.1140/epjds/s13688-026-00638-1"
-          target="_blank"
-          rel="noopener noreferrer">paper</a>]
-    </div>
-  </div>
-
 
   <div class="work-card">
     <a href="https://www.nature.com/articles/s42005-025-02445-y"
