@@ -100,7 +100,7 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
   </div>
 
   <div class="work-card">
-    <a href="https://arxiv.org/pdf/2511.19166"
+    <a href="https://aclanthology.org/2026.findings-emnlp.532/"
        target="_blank"
        rel="noopener noreferrer">
       <img src="{{ '/images/fig_pstat.png' | relative_url }}"
@@ -112,11 +112,11 @@ I graduated from Georgetown University in 2022 with a B.S. in Mathematics and Co
     </div>
 
     <div class="work-meta">
-      EMNLP, 2026 (forthcoming)
+      EMNLP, 2026
     </div>
 
     <div class="work-link">
-      [<a href="https://arxiv.org/pdf/2511.19166"
+      [<a href="https://aclanthology.org/2026.findings-emnlp.532/"
           target="_blank"
           rel="noopener noreferrer">paper</a>]
     </div>
