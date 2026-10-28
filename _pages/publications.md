@@ -94,7 +94,7 @@ Publications
 <div class="pub-entry">
 
   <div class="pub-thumb">
-    <a href="https://arxiv.org/pdf/2511.19166"
+    <a href="https://aclanthology.org/2026.findings-emnlp.532/"
        target="_blank"
        rel="noopener noreferrer">
       <img src="{{ '/images/fig_pstat.png' | relative_url }}"
