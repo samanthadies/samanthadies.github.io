@@ -107,11 +107,10 @@ Publications
       <strong>Samantha Dies</strong>, Courtney Maynard, Germans Savcisens,
       and Tina Eliassi-Rad.
       <em>Epistemic Familiarity is Associated With Belief Stability in Large Language Models.</em>
-      <em>Findings of the Association for Computational Linguistics: EMNLP</em> (2026),
-      forthcoming.
+      <em>Findings of the Association for Computational Linguistics: EMNLP</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="https://arxiv.org/pdf/2511.19166"
+      [<a href="https://aclanthology.org/2026.findings-emnlp.532.pdf"
           target="_blank"
           rel="noopener noreferrer">paper</a>]
     </p>
