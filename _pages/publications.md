@@ -110,7 +110,7 @@ Publications
       <em>Findings of the Association for Computational Linguistics: EMNLP</em> (2026).
     </p>
     <p class="pub-links">
-      [<a href="https://aclanthology.org/2026.findings-emnlp.532.pdf"
+      [<a href="https://aclanthology.org/2026.findings-emnlp.532/"
           target="_blank"
           rel="noopener noreferrer">paper</a>]
     </p>
